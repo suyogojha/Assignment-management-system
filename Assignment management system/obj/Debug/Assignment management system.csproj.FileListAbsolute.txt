@@ -1,0 +1,16 @@
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\bin\Debug\Assignment management system.exe.config
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\bin\Debug\Assignment management system.exe
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\bin\Debug\Assignment management system.pdb
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment management system.csprojAssemblyReference.cache
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Dashboard.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Form1.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Properties.Resources.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment management system.csproj.GenerateResource.cache
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment management system.exe
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment management system.pdb
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Student.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Teacher.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Status.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Course.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Faculty.resources
+D:\ISMT\Programming\visual studio\Assignment management system\Assignment management system\obj\Debug\Assignment_management_system.Assignment.resources
